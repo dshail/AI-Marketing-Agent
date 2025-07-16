@@ -1,0 +1,182 @@
+{
+  "85298475-2fd8-4790-b9f5-e8903a36a550": {
+    "input": {
+      "ad_text": "Buy our amazing product now!",
+      "tone": "friendly",
+      "platforms": [
+        "facebook",
+        "instagram"
+      ]
+    },
+    "output": {
+      "facebook": "Rewritten ad copy here!",
+      "instagram": "Rewritten ad copy here!"
+    },
+    "timestamp": "2025-07-16T11:06:37.060220",
+    "request_id": "85298475-2fd8-4790-b9f5-e8903a36a550"
+  },
+  "0214828b-2a2e-4a2c-af72-bb327e580a1e": {
+    "input": {
+      "ad_text": "Buy our amazing product now!",
+      "tone": "friendly",
+      "platforms": [
+        "facebook",
+        "instagram"
+      ]
+    },
+    "output": {
+      "facebook": "Rewritten ad copy here!",
+      "instagram": "Rewritten ad copy here!"
+    },
+    "timestamp": "2025-07-16T11:07:23.066649",
+    "request_id": "0214828b-2a2e-4a2c-af72-bb327e580a1e"
+  },
+  "265e7b0f-59e7-4d12-9539-3cf8fc436bf9": {
+    "input": {
+      "ad_text": "Buy our amazing product now!",
+      "tone": "friendly",
+      "platforms": [
+        "facebook",
+        "instagram"
+      ]
+    },
+    "output": {
+      "facebook": "Rewritten ad copy here!",
+      "instagram": "Rewritten ad copy here!"
+    },
+    "timestamp": "2025-07-16T11:08:32.738099",
+    "request_id": "265e7b0f-59e7-4d12-9539-3cf8fc436bf9"
+  },
+  "17dab5fc-31b8-4479-9219-e8b3c933c705": {
+    "input": {
+      "ad_text": "Check out our amazing summer sale!",
+      "tone": "friendly",
+      "platforms": [
+        "facebook",
+        "instagram"
+      ]
+    },
+    "output": {
+      "facebook": "\ud83c\udf1e Don't miss out! Dive into summer savings TODAY with up to 20% off storewide!\n\nPicture yourself in fresh new styles at incredible prices. From breezy sundresses to must-have beach accessories, we've got your summer look covered.\n\n\ud83d\udc49 Shop Now & Save 20% \n\n\ud83d\udd25 Trending items selling fast\n\u2728 Free shipping on orders over $50\n\u26a1 Limited time only\n\nTag a friend who loves a good deal! \n#SummerSale #ShopNow #HotDeals\n\n[Perfect paired with a bright, summery lifestyle image or a product collage]",
+      "instagram": "\ud83c\udf1e Sizzling summer deals you can't miss! \u2728\n\nTreat yourself to something special while prices are hot \ud83d\udd25\n[Insert stunning product photo]\n\n#SummerSale #ShopSmarter #TreatYourself #SummerVibes #ShopNow #SaleAlert #MustHave #SummerStyle"
+    },
+    "timestamp": "2025-07-16T12:31:43.603276",
+    "request_id": "17dab5fc-31b8-4479-9219-e8b3c933c705"
+  },
+  "cc79fbef-6842-43ce-8d84-cda2b0e5b916": {
+    "input": {
+      "ad_text": "Check out our amazing summer sale!",
+      "tone": "friendly",
+      "platforms": [
+        "facebook",
+        "instagram"
+      ]
+    },
+    "output": {
+      "facebook": "\ud83c\udf1e Don't miss out! Dive into summer savings TODAY and get up to 20% off your favorite styles!\n\n\u2600\ufe0f Picture yourself in our stunning new collection - from breezy beach essentials to perfect patio party looks. \n\n\ud83d\udc49 Tap to shop now before these hot deals melt away!\n\n[Perfect for image carousel showing summer products]\n\n#SummerStyle #HotDeals #ShopNow #SummerSale \n\n\u2728 Limited time only - while supplies last! \u2728",
+      "instagram": "\ud83c\udf1e Sizzling summer deals you can't resist! \n\u2728 Treat yourself to something special \n\ud83c\udff7\ufe0f Major savings happening now\n\n#SummerSale #ShopSmall #TreatYourself #SummerVibes #ShopNow #SummerDeals #SummerStyle \ud83c\udf0a\n\nNote: This version is more engaging and Instagram-friendly with:\n- Emojis for visual appeal\n- Short, punchy lines\n- Trendy, relevant hashtags\n- Casual, inviting tone\n- No hard sell"
+    },
+    "timestamp": "2025-07-16T12:39:37.961633",
+    "request_id": "cc79fbef-6842-43ce-8d84-cda2b0e5b916",
+    "feedback": {
+      "facebook": {
+        "ad_text": "\ud83c\udf1e Don't miss out! Dive into summer savings TODAY and get up to 20% off your favorite styles!\n\n\u2600\ufe0f Picture yourself in our stunning new collection - from breezy beach essentials to perfect patio party looks. \n\n\ud83d\udc49 Tap to shop now before these hot deals melt away!\n\n[Perfect for image carousel showing summer products]\n\n#SummerStyle #HotDeals #ShopNow #SummerSale \n\n\u2728 Limited time only - while supplies last! \u2728",
+        "engagement_rate": 0.045,
+        "click_through_rate": 0.023,
+        "conversion_rate": 0.008,
+        "feedback_timestamp": "2025-07-16T13:25:47.261858"
+      }
+    }
+  },
+  "f4471200-17d2-465c-8a9a-28fa49fd0043": {
+    "input": {
+      "ad_text": "Discover our revolutionary skincare routine that transforms your skin in just 7 days!",
+      "tone": "friendly",
+      "platforms": [
+        "facebook",
+        "instagram",
+        "linkedin"
+      ]
+    },
+    "output": {
+      "facebook": "Here's a friendly, engaging Facebook ad variation with an early CTA:\n\n\ud83c\udf1f Transform Your Skin Today! \ud83c\udf1f\n\nPicture this: Waking up to glowing, radiant skin every morning. Our game-changing 7-day routine makes it happen! \u2728\n\n[Image suggestion: Split-screen before/after of glowing, natural skin results]\n\n\ud83d\udc49 Tap to unlock your skin's potential!\n\nWhat's waiting for you:\n\u2022 Visible results in just 7 days\n\u2022 Natural, gentle ingredients\n\u2022 Dermatologist-approved formula\n\nJoin thousands of happy customers already living their best skin life! \ud83d\udcab\n\n#Glow",
+      "instagram": "Variant 1:\n\n\u2728 7 days to glow up? Yes please! \u2728\n\nWatch your skin transform with our game-changing routine \ud83c\udf1f\nBefore & after results that'll make you do a double take \ud83d\udc40\n\n#GlowingSkin #SkincareRoutine #SkinTransformation #BeautySecrets #SkincareCommunity #GlowUp #SelfCareSunday #SkincareObsessed\n\n[Visual Suggestion: Split-screen before/after transformation with a shimmer effect overlay]\n\nThis variation:\n- Uses engaging emojis\n- Creates visual imagery\n- Maintains casual,",
+      "linkedin": "Here's a professional, value-driven LinkedIn variation:\n\n\"Transform your self-care journey with science-backed skincare solutions \ud83c\udf1f\n\nReady to elevate your daily routine? Our dermatologist-developed skincare system delivers visible results in just one week. Join thousands of professionals who've discovered the perfect balance between efficiency and effectiveness.\n\n\u2713 Clinically proven formulas\n\u2713 Time-saving routine\n\u2713 Professional-grade results\n\nConnect with our community of skincare enthusiasts and discover why busy professionals trust our system to maintain their confident presence.\n\n\ud83d\udd17 Learn more about smart skincare for busy achievers\n\n#ProfessionalSkincare #Wellness"
+    },
+    "timestamp": "2025-07-16T13:03:26.276681",
+    "request_id": "f4471200-17d2-465c-8a9a-28fa49fd0043"
+  },
+  "33ca393d-3e64-415d-8801-2053150bfb5d": {
+    "input": {
+      "ad_text": "Join our exclusive fitness challenge and transform your body in 30 days!",
+      "tone": "professional",
+      "platforms": [
+        "linkedin",
+        "facebook"
+      ]
+    },
+    "output": {
+      "linkedin": "Here's a professional, LinkedIn-optimized variation:\n\n\"Transform Your Professional Well-being: 30-Day Executive Fitness Program\n\n\ud83c\udfaf Designed for busy professionals seeking sustainable work-life integration\n\u2022 Science-backed methodology tailored to high-performers\n\u2022 Flexible scheduling for demanding careers\n\u2022 Performance metrics tracking and analytics\n\u2022 Expert-led corporate wellness protocols\n\nJoin industry leaders who've enhanced their professional stamina and leadership presence through our structured wellness initiative.\n\n\u2713 92% of participants report improved workplace productivity\n\u2713 Featured in Forbes' Top Corporate Wellness Programs\n\u2713 Endorsed by Fortune 500 executives\n\nLimited spots available for Q1 2024.",
+      "facebook": "Here's a polished, image-focused variation for Facebook:\n\n\ud83d\udd25 TRANSFORM YOUR BODY THIS MONTH - START NOW \n\nPicture this: 30 days from now, feeling stronger, more energized, and confident in your own skin. Our science-backed fitness challenge makes it possible.\n\n\ud83d\udcf8 [Dynamic before/after transformation image]\n\ud83d\udcaa Expert-designed workouts\n\ud83c\udfaf Personalized nutrition plans\n\ud83d\udc65 Supportive community of 10,000+ members\n\nLimited spots available for our next challenge starting [Date].\nTap \"Sign Up\" to secure your spot and begin your transformation journey.\n\n[CTA Button: JOIN THE CHALLENGE"
+    },
+    "timestamp": "2025-07-16T13:35:34.854150",
+    "request_id": "33ca393d-3e64-415d-8801-2053150bfb5d"
+  },
+  "b5d6e04d-4160-4e18-99bd-4359fa71bbe2": {
+    "input": {
+      "ad_text": "Join our exclusive fitness challenge and transform your body in 30 days!",
+      "tone": "professional",
+      "platforms": [
+        "linkedin",
+        "facebook"
+      ]
+    },
+    "output": {
+      "linkedin": "Variant 1 (Professional LinkedIn-optimized copy):\n\n\"Elevate Your Professional Well-being: 30-Day Executive Fitness Transform\n\n\ud83c\udfaf Designed for busy professionals seeking sustainable work-life integration\n\u2022 Science-backed fitness protocols optimized for high-performers\n\u2022 Structured program aligned with demanding corporate schedules\n\u2022 Performance metrics tracking and analytics dashboard\n\nJoin industry leaders who've enhanced their professional edge through peak physical conditioning. Our executive fitness program delivers measurable results while accommodating your business commitments.\n\n\u2713 92% completion rate among C-suite participants\n\u2713 Featured in Harvard Business Review\n\u2713 Endorsed by Fortune 500 wellness directors\n\nLimited spots",
+      "facebook": "Variant 1:\n\n\ud83d\udcf8 Ready to reveal your best self? Transform your body with our 30-day fitness revolution!\n\nGet started NOW and unlock:\n\u2022 Expert-designed workouts\n\u2022 Daily motivation & support\n\u2022 Real results you can see\n\u2022 Community accountability\n\nDon't wait for \"someday\" - your transformation starts here. Tap to join our exclusive challenge and be part of something extraordinary! \n\nLimited spots available. Save your place today and get a FREE meal plan! \ud83d\udcaa\n\n[CTA Button: Start Your Journey]\n\n#FitnessChallenge #TransformationTime #HealthyLifestyle\n\nNote: This variation:\n- Opens with a visual"
+    },
+    "timestamp": "2025-07-16T13:42:16.039978",
+    "request_id": "b5d6e04d-4160-4e18-99bd-4359fa71bbe2",
+    "feedback": {
+      "facebook": {
+        "ad_text": "\ud83d\udcf8 Ready to reveal your best self? Transform your body with our 30-day fitness revolution!\n\nGet started NOW and unlock:\n\u2022 Expert-designed workouts\n\u2022 Daily motivation & support\n\u2022 Real results you can see\n\u2022 Community accountability\n\nDon't wait for \"someday\" - your transformation starts here. Tap to join our exclusive challenge and be part of something extraordinary! \n\nLimited spots available. Save your place today and get a FREE meal plan! \ud83d\udcaa\n\n[CTA Button: Start Your Journey]\n\n#FitnessChallenge #TransformationTime #HealthyLifestyle",
+        "engagement_rate": 0.062,
+        "click_through_rate": 0.034,
+        "conversion_rate": 0.012,
+        "feedback_timestamp": "2025-07-16T13:46:59.179248"
+      },
+      "linkedin": {
+        "ad_text": "Elevate Your Professional Well-being: 30-Day Executive Fitness Transform\n\n\ud83c\udfaf Designed for busy professionals seeking sustainable work-life integration\n\u2022 Science-backed fitness protocols optimized for high-performers\n\u2022 Structured program aligned with demanding corporate schedules\n\u2022 Performance metrics tracking and analytics dashboard\n\nJoin industry leaders who've enhanced their professional edge through peak physical conditioning. Our executive fitness program delivers measurable results while accommodating your business commitments.\n\n\u2713 92% completion rate among C-suite participants\n\u2713 Featured in Harvard Business Review\n\u2713 Endorsed by Fortune 500 wellness directors\n\nLimited spots",
+        "engagement_rate": 0.028,
+        "click_through_rate": 0.019,
+        "conversion_rate": 0.015,
+        "feedback_timestamp": "2025-07-16T13:48:08.558104"
+      }
+    }
+  },
+  "57cb419b-2c3b-42c1-8dda-71092fe0420d": {
+    "input": {
+      "ad_text": "Transform your health with our proven 21-day wellness program!",
+      "tone": "friendly",
+      "platforms": [
+        "facebook",
+        "instagram"
+      ]
+    },
+    "output": {
+      "facebook": "Variant 1:\n\n\ud83d\udc4b Ready for a total health makeover? \n\n\ud83c\udf1f START TODAY: Our 21-day wellness journey is changing lives! \n\nPicture yourself with boundless energy, glowing skin, and a spring in your step. Our science-backed program makes it possible! Join thousands of happy customers who've already discovered their best selves.\n\n[Image suggestion: Split-screen before/after of radiant, energetic person]\n\n\u2728 What you'll get:\n\u2022 Custom meal plans\n\u2022 Daily motivation\n\u2022 Expert coaching\n\u2022 Supportive community\n\n\ud83d\udc49 Tap to begin your transformation! Limited spots available.\n\n#WellnessJour",
+      "instagram": "\ud83c\udf31 Ready for your glow-up? \u2728\n\n21 days to a healthier, happier you! Join our wellness journey and watch the magic unfold \ud83c\udf3f\n\n#WellnessJourney #HealthyLifestyle #SelfCare #GlowUp #WellnessChallenge #HealthyHabits #MindBodySoul #TransformationTuesday\n\n[Visual suggestion: Before/after wellness transformation or peaceful meditation scene with soft, inspiring aesthetics]\n\nThis version:\n- Uses engaging emojis\n- Creates visual appeal\n- Keeps message short and impactful\n- Includes trending hashtags"
+    },
+    "timestamp": "2025-07-16T13:53:05.367313",
+    "request_id": "57cb419b-2c3b-42c1-8dda-71092fe0420d",
+    "feedback": {
+      "facebook": {
+        "ad_text": "\ud83d\udc4b Ready for a total health makeover? \n\n\ud83c\udf1f START TODAY: Our 21-day wellness journey is changing lives! \n\nPicture yourself with boundless energy, glowing skin, and a spring in your step. Our science-backed program makes it possible! Join thousands of happy customers who've already discovered their best selves.\n\n\u2728 What you'll get:\n\u2022 Custom meal plans\n\u2022 Daily motivation\n\u2022 Expert coaching\n\u2022 Supportive community\n\n\ud83d\udc49 Tap to begin your transformation! Limited spots available.",
+        "engagement_rate": 0.058,
+        "click_through_rate": 0.031,
+        "conversion_rate": 0.011,
+        "feedback_timestamp": "2025-07-16T13:55:41.097985"
+      }
+    }
+  }
+}
