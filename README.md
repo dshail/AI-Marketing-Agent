@@ -2,7 +2,7 @@
 
 🚀 **Next-Generation Marketing Automation** with AI-powered ad optimization, multi-variant generation, performance feedback loops, and continuous learning capabilities. Built with FastAPI for enterprise-scale marketing workflows.
 
-## 🎯 What's New in v2.0
+## 🎯 What's New Features
 
 - **🏆 Multi-Variant Generation**: Creates 3 scored variants per platform with automatic ranking
 - **📊 Quality Scoring System**: Advanced scoring algorithm evaluating 7+ quality metrics
